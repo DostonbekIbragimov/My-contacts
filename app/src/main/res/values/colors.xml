@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FDF34357</color>
+    <color name="colorPrimaryDark">#D62D40</color>
+    <color name="colorAccent">#33393F</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="RecolorPrimary">#03DAC5</color>
+    <color name="RecolorPrimaryDark">#12A596</color>
+    <color name="RecolorAccent">#03DAC5</color>
+    <color name="RecolorOnPressed">#12A596</color>
+    <color name="colorOnPressed">#12A596</color>
+    <color name="colorTransparent">#FAFFFF</color>
+    <color name="colorText">#33393F</color>
+</resources>
